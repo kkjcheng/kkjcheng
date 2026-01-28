@@ -1,5 +1,3 @@
-# Kevin Cheng
-
 I'm the founder of [Decoda Health](https://decodahealth.com), where I'm building the operating system for modern healthcare practices.
 
 Decoda is a full-stack platform that handles everything a healthcare practice needs to run — scheduling, patient communication, billing, forms, inventory, and more. We've built AI assistants that can handle phone calls, answer patient questions, and automate the tedious parts of running a practice so providers can focus on care.
